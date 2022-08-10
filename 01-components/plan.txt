@@ -1,0 +1,22 @@
+"
+- Для чого JS-фреймворки?
+- Порівняння MPA и SPA
+- Концепція Virtual DOM
+- create-react-app
+- Пакети react и react-dom
+- React-элементи
+- JSX як шаблонізатор. Рендер за умовою і логіка в розмітці.
+- Компоненти-функції
+- Передача даних через Props
+- Дефолтні значення пропів
+- React DevTools https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=uk
+- Композиція компонентів
+- Пакет prop-types, властивість propTypes 
+- Работа с колекціями, ключі
+- React strict mode
+- Абсолютні імпорти (jsconfig.json : {
+        "compilerOptions": {
+          "baseUrl": "src"
+        },
+        "include": ["src"]
+      })
