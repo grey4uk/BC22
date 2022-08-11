@@ -1,0 +1,21 @@
+.container {
+        background: rgb(168, 226, 168);
+
+}
+
+.title {
+        color: var(--red);
+        font-size: 36px;
+        display: flex;
+        text-align: center;
+        align-items: center;
+}
+
+.title:hover {
+        transform: scale(1.5);
+}
+
+.active {
+        composes: title;
+        color: rgb(22, 74, 81);
+}

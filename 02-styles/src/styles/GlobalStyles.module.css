@@ -1,0 +1,9 @@
+@value backgroundMain: rgb(108, 152, 209);
+
+:global(.container) {
+        width: 80vw;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
