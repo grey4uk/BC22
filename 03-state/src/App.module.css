@@ -1,0 +1,14 @@
+@value backgroundMain from './styles/GlobalStyles.module.css';
+
+.container {
+        background: backgroundMain;
+}
+
+.userIcon {
+        width: 40px;
+        fill: var(--red);
+}
+
+.userIcon:hover {
+        transform: rotate(45deg);
+}
